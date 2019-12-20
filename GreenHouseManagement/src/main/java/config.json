@@ -1,0 +1,109 @@
+{
+  "pessoas": [
+    {
+      "_id": 1,
+      "nome": "Alberto",
+      "apelido": "Campos",
+      "cargo": "owner"
+    },
+    {
+      "_id": "2",
+      "nome": "Luis",
+      "apelido": "Souza",
+      "cargo": "Engenheiro Agronomo"
+    }
+  ],
+  "sensores": [
+    {
+      "_id": "106",
+      "tipo": "temp_int",
+      "estufa": "6"
+    },
+    {
+      "_id": "101",
+      "tipo": "temp_int",
+      "estufa": "1"
+    },
+    {
+      "_id": "103",
+      "tipo": "temp_int",
+      "estufa": "3"
+    },
+    {
+      "_id": "104",
+      "tipo": "temp_int",
+      "estufa": "4"
+    },
+    {
+      "_id": "105",
+      "tipo": "temp_int",
+      "estufa": "5"
+    },
+    {
+      "_id": "201",
+      "tipo": "temp_ext",
+      "estufa": "1"
+    },
+    {
+      "_id": "202",
+      "tipo": "temp_ext",
+      "estufa": "2"
+    },
+    {
+      "_id": "203",
+      "tipo": "temp_ext",
+      "estufa": "3"
+    },
+    {
+      "_id": "306",
+      "tipo": "veloc_vento",
+      "estufa": "6"
+    },
+    {
+      "_id": "301",
+      "tipo": "veloc_vento",
+      "estufa": "1"
+    },
+    {
+      "_id": "401",
+      "tipo": "rad",
+      "estufa": "1"
+    },
+    {
+      "_id": "402",
+      "tipo": "rad",
+      "estufa": "2"
+    },
+    {
+      "_id": "403",
+      "tipo": "rad",
+      "estufa": "3"
+    },
+    {
+      "_id": "404",
+      "tipo": "rad",
+      "estufa": "4"
+    },
+    {
+      "_id": "506",
+      "tipo": "ph",
+      "estufa": "6"
+    },
+    {
+      "_id": "501",
+      "tipo": "ph",
+      "estufa": "1"
+    },
+        {
+      "_id": "601",
+      "tipo": "humidade",
+      "estufa": "1"
+    },
+    {
+      "_id": "602",
+      "tipo": "humidade",
+      "estufa": "2"
+    }
+  ]
+
+}
